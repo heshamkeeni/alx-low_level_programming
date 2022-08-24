@@ -1,0 +1,4 @@
+[user]
+	emaill = heshamkeeni@gmail.com\ngit config --global user.email heshamkeeni@gmail.com
+	name = Hesham Hassan
+	email = hashubek@gmail.com
