@@ -1,29 +1,29 @@
-Write a function that concatenates two strings.
+What are the arithmetic operators and how to use them
 
+What are the logical operators (sometimes called boolean operators) and how to use them
 
+What the the relational operators and how to use them
 
-Write a function that concatenates two strings.
+What values are considered TRUE and FALSE in C
 
+What are the boolean operators and how to use them
 
+How to use the if, if ... else statements
 
-Write a function that copies a string.
+How to use comments
 
+How to declare variables of types char, int, unsigned int
 
+How to assign values to variables
 
-Write a function that compares two strings.
+How to print the values of variables of type char, int, unsigned int with printf
 
+How to use the while loop
 
+How to use variables with the while loop
 
-Write a function that reverses the content of an array of integers.
+How to print variables using printf
 
+What is the ASCII character set
 
-
-Write a function that changes all lowercase letters of a string to uppercase.
-
-
-
-Write a function that capitalizes all words of a string.
-
-
-
-Write a function that encodes a string into 1337.
+What are the purpose of the gcc flags -m32 and -m64
