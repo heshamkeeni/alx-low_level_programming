@@ -1,14 +1,14 @@
 #include <stdio.h>
-#include "main.h"
-
 /**
- * main - prints all arguments it receives
- * @argc: number of arguments
- * @argv: array of arguments
+ * main - entry point
+ * Prints all the arguments it receives including the
+ * first one.
+ * @argc: size of argv
+ * @argv: array of pointers to strings
  *
- * Return: Always 0 (Success)
+ * Return: 0 if successful, anything else otherwise
  */
-int main(int argc, char *argv[])
+int main(int __attribute__((__unused__)) argc, char *argv[])
 {
 	int i;
 
@@ -16,6 +16,5 @@ int main(int argc, char *argv[])
 	{
 		printf("%s\n", argv[i]);
 	}
-
 	return (0);
 }
